@@ -1,5 +1,5 @@
-# Шаблон портфолио
+# Portfolio
 
-Шаблон личного сайта-портфолио для GitHub Pages.
+Мой сайт: https://github.com/legendary-java-tutorial/course2026-portfolio-wrong
 
-Замени текст-заглушку и картинки в `media/` своими. Разметку не удаляй: меняется текст между тегами и значения `src`, `alt`, `href`.
+![screenshot](https://img.shields.io/badge/site-screenshot-lightgrey)
